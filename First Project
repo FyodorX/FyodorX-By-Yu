@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercise Project</title>
+    </head>
+    <body>
+        <h1>Hi! Welcome to my website. where I will be talking about the basics of Web Designs</h1>
+        <h2>
+            <ol type="I">
+                <li><u>What is Web Design? you may ask.</u></li>
+                    <figure>
+                        <img src="./Images/104228210.png" width="500" alt="">
+                            <figcaption>
+                                <h4>Web design is the process of planning, conceptualizing, and arranging content intended for the Internet. Modern web design goes beyond how things look (aesthetics) to
+                                    include how things work (functionality). Web design is not limited to websites as it includes other uses such as web apps, mobile apps, and user interface design.</h4>
+                            </figcaption>
+                    </figure>
+                <li>
+                    <u>Here are some key components of web design:</u>
+                    <ul>
+                        <li><h4>Layout: This is the way the graphics, ads, and text are arranged. In the web world, a key goal is to help the view find the information they seek at a glance. This includes
+                            maintaining the balance, consistency, and integrity of the design.</h4></li>
+                        <li><h4>Color: The choice of colors depends on the purpose and clientele; it could be simple black-and-white to multi-colored design, conveying the personality of a person or the brand of an organization, using web-safe colors</h4></li>
+                        <li><h4>Grapics: Graphics can include logos, photos, clipart, or icons, all of which enhance the web design. For user friendliness, these need to be placed appropriately, working with the color and content of the web page, while not making it too congested or slow to load.</h4></li>
+                        <li><h4>Fonts: The use of various fonts can enhance a website design. Most web browsers can only read a select number of fonts, known as "web-safe fonts", so your designer will generally work within this widely accepted group.</h4></li>
+                        <li><h4>Content:  Content and design can work together to enhance the message of the site through visuals and text. Written text should always be relevant and useful, so as not to confuse the reader and to give them what they want so they will remain on the site. Content should be optimized for search engines and be of a suitable length, incorporating relevant keywords.</h4></li>
+                        <li><h4>User Experience(UX): How a user interacts with a website can determine if they will take the action you want them to. A good web design is user-friendly, with a clear path for users to follow, and is accessible to as many users as possible.</h4></li>
+                        <li><h4>User Interface(UI):The user interface is the actual interface through which a user interacts with the website. This includes the screen, pages, buttons, and icons.</h4></li>
+                        <li><h4>Navigation: Navigation is about how easy it is for people to take action and move around your website. Some tactics for effective navigation include a logical page hierarchy, using bread crumbs, designing clickable buttons, and following the 'three click rule' which means users will be able to find the information they are looking for within three clicks.</h4></li>
+                        <li><h4>Multimedia: Relevant video and audio stimuli in the design can help users to grasp the information, developing understanding in an easy and quick manner. This can encourage visitors to spend more time on the webpage.</h4></li>
+                        <li><h4>Compatibility: Design the webpage, so it performs equally well on different browsers and operating systems, to increase its viewing.</h4></li>
+                        <li><h4>Technology: Advancements in technology give designers the freedom to add movement and innovation, allowing for web design that is always fresh, dynamic, and professional.</h4></li>
+                        <li><h4>Interactive: Increase active user participation and involvement, by adding comment boxes and opinion polls in the design. Convert users from visitors to clients with email forms and newsletter sign-ups.</h4></li>
+                    </ul>
+                </li>
+                <li>
+
+                    <u>
+                        The languages used for web design primarily include:   
+                    </u>
+
+                    <table>
+                        <tr>
+                            <th bgcolor="#DAF7A6" align="center">Language</th>
+                            <th bgcolor="#DAF7A6" align="center">About it</th>
+                        </tr>
+                        <tr bgcolor="#DAF7A6" align="center">
+                            <td>
+                                <figure>
+                                    <img src="./Images/5847f5bdcef1014c0b5e489c.png" width="100" alt="">
+                                </figure>
+                            </td>
+                            <td>
+                                <h4>HTML (HyperText Markup Language): The standard markup language used to create and structure sections on the web. It forms the backbone of any website.</h4>
+                            </td>
+                        </tr>
+                        <tr bgcolor="#DAF7A6" align="center">
+                            <td>
+                                <figure>
+                                    <img src="./Images/css-logo.png" width="70" alt="">
+                                </figure>
+                            </td>
+                            <td>
+                                <h4>CSS (Cascading Style Sheets): Used for designing and customizing the appearance of the website, including layout, colors, fonts, and other visual aspects.</h4>
+                            </td>
+                        </tr>
+                        <tr bgcolor="#DAF7A6" align="center">
+                            <td>
+                                <figure>
+                                    <img src="./Images/JavaScript-Logo.png" width="200" alt="">
+                                </figure>
+                            </td>
+                            <td>
+                                <h4>JavaScript: A scripting language that enables interactive elements on web pages. It's used to enhance user experience by allowing dynamic content.</h4>
+                            </td>
+                        </tr>
+                    </table>
+                </li>
+            </ol>
+        </h3>
+
+        <h1><b><u>CONTACT ME</u></b></h1>
+
+        <form>
+            <div>
+                <tr>
+                    <td>Name</td>
+                </tr>
+            </div>
+            <input type="text" name="Name" placeholder="Please Enter Your Name...">
+            
+            <div>
+                <tr>
+                    <td>
+                        Gender:
+                    </td>
+                </tr>
+            </div>
+
+            Male: <input type="Radio" name="gender" value="Male">
+            Female: <input type="Radio" name="gender" value="Female">
+            Other: <input type="Radio" name="gender" value="Other">
+
+            <div>
+                <tr>
+                    <td>
+                        Gmail:
+                    </td>
+                </tr>
+            </div>
+
+            <input type="text" name="Gmail" placeholder="Please Enter Your Gmail...">
+
+            <input type="submit" name="submit">
+        </form>
+
+        <h1>
+            <b>Terms And Conditions:</b>
+        </h1>
+        <ol>
+            <li><h3>Introduction</h3></li>
+            <ul>
+                <li>These Terms and Conditions govern your use of our website located at [insert website URL] (hereinafter referred to as "Rayu's Project").</li>
+                <li>By accessing and using Rayu's Project, you agree to be bound by these Terms and Conditions and our Privacy Policy. If you do not agree with any part of these terms, you must not use our website.</li>
+            </ul>
+            <li><h3>Intellectual Property Rights</h3></li>
+
+            <ul>
+                <li>Other than content you own, which you may have opted to include on this Website, under these Terms, Rayu's Project and/or its licensors own all rights to the intellectual property and material contained in this Website, and all such rights are reserved.</li>
+            </ul>
+
+            <li><h3>Restrictions</h3></li>
+
+            <ul>
+                <li>You are expressly restricted from all of the following:</li>
+                <ul>
+                    <li>Publishing any Website material in any media without prior consent.</li>
+                    <li>Selling, sublicensing, and/or otherwise commercializing any Website material.</li>
+                    <li>Publicly performing and/or showing any Website material.</li>
+                    <li>Using this Website in any way that is, or may be, damaging to Rayu's Project.</li>
+                    <li>Using this Website in any way that impacts user access to Rayu's Project.</li>
+                    <li>Using this Website contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the Website, or to any person or business entity.</li>
+                    <li>Engaging in any data mining, data harvesting, data extracting, or any other similar activity in relation to this Website, or while using this Website.</li>
+                </ul>
+            </ul>
+
+            <li><h3>Your Content</h3></li>
+
+            <ul>
+                <li>In these Terms and Conditions, "Your Content" shall mean any audio, video, text, images, or other material you choose to display on this Website.</li>
+                <li>With respect to Your Content, by displaying it, you grant Rayu's Project a non-exclusive, worldwide, irrevocable, royalty-free, sublicensable license to use, reproduce, adapt, publish, translate, and distribute it in any and all media.</li>
+            </ul>
+
+            <li><h3>No warranties</h3></li>
+
+            <ul>
+                <li>This Website is provided "as is," with all faults, and Rayu's Project makes no express or implied representations or warranties of any kind related to this Website or the materials contained on this Website.</li>
+            </ul>
+
+            <li><h3>Limitation of liability</h3></li>
+
+            <ul>
+                <li>In no event shall Rayu's Project, nor any of its officers, directors, and employees, be liable for anything arising out of or in any way connected with your use of this Website, whether such liability is under contract, tort, or otherwise.</li>
+            </ul>
+
+            <li><h3>Indemnification</h3></li>
+
+            <ul>
+                <li>You hereby indemnify to the fullest extent Rayu's Project from and against any and/or all liabilities, costs, demands, causes of action, damages, and expenses arising in any way related to your breach of any of the provisions of these Terms.</li>
+            </ul>
+
+            <li><h3>Severability</h3></li>
+
+            <ul>
+                <li>If any provision of these Terms is found to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render these Terms unenforceable or invalid as a whole, and such provisions shall be deleted without affecting the remaining provisions herein.</li>
+            </ul>
+
+            <li><h3>Variation of Terms</h3></li>
+
+            <ul>
+                <li>Rayu's Project is permitted to revise these Terms at any time as it sees fit, and by using this Website, you are expected to review such Terms on a regular basis to ensure you understand all terms and conditions governing use of this Website.</li>
+            </ul>
+
+            <li><h3>Assignment</h3></li>
+
+            <ul>
+                <li>Rayu's Project shall be permitted to assign, transfer, and subcontract its rights and/or obligations under these Terms without any notification or consent required. However, you shall not be permitted to assign, transfer, or subcontract any of your rights and/or obligations under these Terms.</li>
+            </ul>
+
+            <li><h3>Entire Agreement</h3></li>
+
+            <ul>
+                <li>These Terms, including any legal notices and disclaimers contained on this Website, constitute the entire agreement between Rayu's Project and you in relation to your use of this Website, and supersede all prior agreements and understandings with respect to the same.</li>
+            </ul>
+
+            <li><h3>Governing Law & Jurisdiction</h3></li>
+
+            <ul>
+                <li>These Terms will be governed by and construed in accordance with the laws of the state/country in which Rayu's Project is located, and you submit to the non-exclusive jurisdiction of the state and federal courts located in [insert location] for the resolution of any disputes.</li>
+            </ul>
+        </ol>
+
+        <form>
+            I accept the terms and conditions: <input type="Radio" name="Agree or Disagree" value="I accept the terms and conditions">
+            I decline the terms and conditions: <input type="Radio" name="Agree or Disagree" value="I decline the terms and conditions">
+            <input type="submit">
+        </form>
+    </body>
+</html>
